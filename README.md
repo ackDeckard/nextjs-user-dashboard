@@ -1,1 +1,1 @@
-User dashboard using NextJS 13 
+User dashboard using NextJS 13 + Tailwind
